@@ -20,5 +20,12 @@ Nesse projeto usando uma técnica de Phishing vamos capturar usuário e senha do
   - Escolher o método de ataque: Site Cloner
   - Obtendo o endereceço da máquina que receberá: ifconfig
   - Informar URL para clone: http://www.facebook.com
+
+## Preparando o ambiente:
+
+- VirtualBox:
+  <img src="![image](https://github.com/user-attachments/assets/7ccd3ad9-4efd-4dfc-ba97-0e69dcb5def2)">
+  
+
   
   
